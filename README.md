@@ -1,4 +1,4 @@
-# destini_app
+# Destini App
 
 A Flutter destini game project.
 
