@@ -27,7 +27,7 @@ git clone https://github.com/denaktepe/destini-app.git
 2. Navigate to the project directory:
 
 ```
-cd Destini_App
+cd destini-app
 ```
 
 3. Install the required packages:
