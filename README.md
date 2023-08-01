@@ -1,4 +1,4 @@
-<h1>Destini App</h1>
+# Destini App
 
 <p>
   <img src="screenshots/IMG_4949.PNG" alt="Home Screen" width="300">
